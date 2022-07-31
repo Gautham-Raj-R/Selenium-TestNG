@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-31T21:10:08 IST" name="Suite" finished-at="2022-07-31T21:10:13 IST" duration-ms="5341">
+    <groups>
+    </groups>
+    <test started-at="2022-07-31T21:10:08 IST" name="Test" finished-at="2022-07-31T21:10:13 IST" duration-ms="5341">
+      <class name="Default.ActualTests">
+        <test-method signature="windowMax()[pri:1, instance:Default.ActualTests@342c38f8]" started-at="2022-07-31T21:10:13 IST" name="windowMax" finished-at="2022-07-31T21:10:13 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowMax -->
+        <test-method signature="radioButton()[pri:2, instance:Default.ActualTests@342c38f8]" started-at="2022-07-31T21:10:13 IST" name="radioButton" finished-at="2022-07-31T21:10:13 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButton -->
+      </class> <!-- Default.ActualTests -->
+      <class name="Default.GetUrl">
+        <test-method signature="url()[pri:0, instance:Default.GetUrl@43dac38f]" started-at="2022-07-31T21:10:09 IST" name="url" finished-at="2022-07-31T21:10:12 IST" duration-ms="3357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+      </class> <!-- Default.GetUrl -->
+      <class name="Default.BrowserLaunch">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:Default.BrowserLaunch@5d7148e2]" started-at="2022-07-31T21:10:08 IST" name="Launch" finished-at="2022-07-31T21:10:09 IST" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+      </class> <!-- Default.BrowserLaunch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
